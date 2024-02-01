@@ -1,12 +1,10 @@
 /* TABLET */
 @media (max-width: 991px) {
-  /* .device {
-    max-width: 992px;
-  } */
   .bars-active {
-    display: none;
+    display: block;
   }
   header nav ul {
+    display:none;
     position: absolute;
     right: 36px;
     top: 56px;
