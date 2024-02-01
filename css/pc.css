@@ -81,14 +81,10 @@ header nav p:last-child {
 .header_container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  /* padding: 96px 36px 140px 36px; */
   padding-top: 96px;
   padding-bottom: 140px;
   align-items: end;
 }
-/* .header-info {
-  padding: 36px;
-} */
 .header-info h1 {
   font-size: 86px;
   margin-bottom: 8px;
@@ -133,7 +129,6 @@ header nav p:last-child {
   height: auto;
   border-radius: 4px;
   width: 70%;
-  /* margin: 36px; */
   margin-left: auto;
 }
 .header-form p {
@@ -356,12 +351,6 @@ section .section-tab {
 }
 .full-width-img {
   position: relative;
-  /* background-image: linear-gradient(
-      rgba(34, 34, 34, 0.6),
-      rgba(34, 34, 34, 0.6)
-    ),
-    url(./images//city-sky.jpeg);
-  background-size: cover; */
   padding: 64px;
 }
 .full-width-img img {
